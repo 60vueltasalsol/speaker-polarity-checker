@@ -33,4 +33,4 @@ Herramienta en Python para medir y comprobar la **polaridad acústica (fase abso
 
 A continuación se muestra la respuesta transitoria directa capturada por el micrófono:
 
-![Ejemplo de medición de polaridad](assets/grafica.png)![Uploading grafica.png…]()
+![Ejemplo de medición de polaridad](assets/grafica.png)
