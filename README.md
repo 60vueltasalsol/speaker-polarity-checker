@@ -1,4 +1,3 @@
-<img width="1000" height="400" alt="grafica" src="https://github.com/user-attachments/assets/2f322b93-6530-4a04-816f-df75cf0ea915" />
 # 🔊 Verificador de Polaridad Acústica de Altavoces (Python)
 
 Herramienta en Python para medir y comprobar la **polaridad acústica (fase absoluta)** de bocinas o monitores de estudio utilizando una interfaz de audio (como la **Behringer U-Phoria UMC22**) y un micrófono de medición omnidireccional (como el **Behringer ECM8000**).
@@ -33,4 +32,4 @@ Herramienta en Python para medir y comprobar la **polaridad acústica (fase abso
 
 A continuación se muestra la respuesta transitoria directa capturada por el micrófono:
 
-![Ejemplo de medición de polaridad](assets/grafica.png)
+![Ejemplo de medición de polaridad]((https://github.com/60vueltasalsol/speaker-polarity-checker/blob/main/assets)/grafica.png)
